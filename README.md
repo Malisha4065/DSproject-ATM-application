@@ -14,7 +14,7 @@ The ATM application allows users to perform the following operations:
 
 ## Screenshots
 
-![WelcomeScreen](./images/welcomeScreen.png)
+![WelcomeScreen](./welcomeScreen.png)
 *Welcome Screen.*
 
 ## Usage
